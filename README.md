@@ -57,8 +57,8 @@ Plotting the histgram
 Other
  Lessons in the Introduction to Data Analysis section 
 
-Github repos
- https://github.com/adelabuhashim/Explore-US-Bikeshare-Data/blob/master/bikeshare_2.py /n
- https://github.com/khaledimad/Explore-US-Bikeshare-Data /n
- https://github.com/xhlow/udacity-bikeshare-project /n
+Github repos \n
+ https://github.com/adelabuhashim/Explore-US-Bikeshare-Data/blob/master/ bikeshare_2.py \n
+ https://github.com/khaledimad/Explore-US-Bikeshare-Data \n
+ https://github.com/xhlow/udacity-bikeshare-project \n
  Thank you for your dedications, Udacity team!
