@@ -36,6 +36,7 @@ chicago.csv
 washington.csv
 
 ### Credits
+<<<<<<< HEAD
 Resorces for this project are as follows below : 
 
 Filtering by date
@@ -61,3 +62,9 @@ Github repos
  https://github.com/adelabuhashim/Explore-US-Bikeshare-Data/blob/master/bikeshare_2.py
  https://github.com/khaledimad/Explore-US-Bikeshare-Data
  https://github.com/xhlow/udacity-bikeshare-project
+||||||| 11f833c
+It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+
+=======
+ Thank you for your dedications, Udacity team!
+>>>>>>> refactoring
