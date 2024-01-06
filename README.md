@@ -28,11 +28,11 @@ Statistic items
   counts of each user type
   counts of each gender (only available for NYC and Chicago)
   earliest, most recent, most common year of birth (only available for NYC and Chicago)
-* Above items are minimum requests, other items are weilcomed to add.
+* Above items are minimum requests, other items are welcomed to add.
 
 ### Files used
-new_york_city.csv 
-chicago.csv 
+new_york_city.csv
+chicago.csv
 washington.csv
 
 ### Credits
@@ -58,7 +58,7 @@ Other
  Lessons in the Introduction to Data Analysis section 
 
 Github repos
- https://github.com/adelabuhashim/Explore-US-Bikeshare-Data/blob/master/bikeshare_2.py
- https://github.com/khaledimad/Explore-US-Bikeshare-Data
- https://github.com/xhlow/udacity-bikeshare-project
+ https://github.com/adelabuhashim/Explore-US-Bikeshare-Data/blob/master/bikeshare_2.py /n
+ https://github.com/khaledimad/Explore-US-Bikeshare-Data /n
+ https://github.com/xhlow/udacity-bikeshare-project /n
  Thank you for your dedications, Udacity team!
