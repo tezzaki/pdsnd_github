@@ -9,67 +9,67 @@ Coding via Python to explore and take statistic analysis with data related to bi
 
 ##Software requirements
 
-  Python 3, NumPy, and pandas installed using Anaconda
-  A text editor, like Visual Studio Code, Sublime or Atom
-  A terminal application (Terminal on Mac and Linux or Cygwin on Windows)
+  Python 3, NumPy, and pandas installed using Anaconda  
+  A text editor, like Visual Studio Code, Sublime or Atom  
+  A terminal application (Terminal on Mac and Linux or Cygwin on Windows)  
 
-##Statistic items
+##Statistic items  
 
-#1 Popular times of travel (i.e., occurs most often in the start time)
+#1 Popular times of travel (i.e., occurs most often in the start time)  
 
-  most common month
-  most common day of week
-  most common hour of day
+  most common month  
+  most common day of week  
+  most common hour of day  
 
-#2 Popular stations and trip
+#2 Popular stations and trip  
 
-  most common start station
-  most common end station
-  most common trip from start to end (i.e., most frequent combination of start station and end station)
+  most common start station  
+  most common end station  
+  most common trip from start to end (i.e., most frequent combination of start station and end station)  
 
-#3 Trip duration
+#3 Trip duration  
 
-  total travel time
-  average travel time
+  total travel time  
+  average travel time  
 
-#4 User info
+#4 User info  
 
-  counts of each user type
-  counts of each gender (only available for NYC and Chicago)
-  earliest, most recent, most common year of birth (only available for NYC and Chicago)
-  * Above items are minimum requests, other items are welcomed to add.
+  counts of each user type  
+  counts of each gender (only available for NYC and Chicago)  
+  earliest, most recent, most common year of birth (only available for NYC and Chicago)  
+  * Above items are minimum requests, other items are welcomed to add.  
 
-### Files used
+### Files used  
 
-  new_york_city.csv
-  chicago.csv
-  washington.csv
+  new_york_city.csv  
+  chicago.csv  
+  washington.csv  
 
-### Credits
+### Credits  
 
-  Resorces for this project are as follows below : 
+  Resorces for this project are as follows below :   
 
-  Filtering by date
-    https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.dt.day_name.html#pandas.Series.dt.day_name
-    https://note.nkmk.me/python-pandas-time-series-multiindex/
+  Filtering by date  
+    https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.dt.day_name.html#pandas.Series.dt.day_name  
+    https://note.nkmk.me/python-pandas-time-series-multiindex/  
 
-  Error and Exception
-    https://docs.python.org/3/tutorial/errors.html
+  Error and Exception  
+    https://docs.python.org/3/tutorial/errors.html  
 
-  Grouping
-    https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.groupby.html
+  Grouping  
+    https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.groupby.html  
 
-  Plotting the histgram
-    https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.hist.html#pandas.DataFrame.hist
-    https://www.web-dev-qa-db-ja.com/ja/python/matplotlibで図を表示してから自動的に閉じますか？/827664035/https://kinutani.hateblo.jp/entry/2022/08/15/234036
-    https://tech.nkhn37.net/matplotlib-plot-lim-axis/#_8216tight8217
+  Plotting the histgram  
+    https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.hist.html#pandas.DataFrame.hist  
+    https://www.web-dev-qa-db-ja.com/ja/python/matplotlibで図を表示してから自動的に閉じますか？/827664035/  https://kinutani.hateblo.jp/entry/2022/08/15/234036  
+    https://tech.nkhn37.net/matplotlib-plot-lim-axis/#_8216tight8217  
 
-  Other
-    Lessons in the Introduction to Data Analysis section 
+  Other  
+    Lessons in the Introduction to Data Analysis section   
 
   Github repos
-    https://github.com/adelabuhashim/Explore-US-Bikeshare-Data/blob/master/ bikeshare_2.py
-    https://github.com/khaledimad/Explore-US-Bikeshare-Data
-    https://github.com/xhlow/udacity-bikeshare-project
+    https://github.com/adelabuhashim/Explore-US-Bikeshare-Data/blob/master/ bikeshare_2.py  
+    https://github.com/khaledimad/Explore-US-Bikeshare-Data  
+    https://github.com/xhlow/udacity-bikeshare-project  
  
-  Thank you for your dedications, Udacity team!
+  Thank you for your dedications, Udacity team!  
